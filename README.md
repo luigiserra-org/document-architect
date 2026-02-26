@@ -48,7 +48,7 @@ For developers using Claude Code in the terminal.
 
 ```bash
 # Clone to your personal skills directory
-git clone https://github.com/YOUR_USERNAME/document-architect.git ~/.claude/skills/document-architect
+git clone https://github.com/luigiserra-org/document-architect.git ~/.claude/skills/document-architect
 ```
 
 **Project-specific skill:**
@@ -56,7 +56,7 @@ git clone https://github.com/YOUR_USERNAME/document-architect.git ~/.claude/skil
 ```bash
 # Clone into your project's skills directory
 cd your-project
-git clone https://github.com/YOUR_USERNAME/document-architect.git .claude/skills/document-architect
+git clone https://github.com/luigiserra-org/document-architect.git .claude/skills/document-architect
 ```
 
 Claude Code will automatically discover and load the skill when relevant.
@@ -70,7 +70,7 @@ Claude Desktop uses the same file-based skill discovery as Claude Code.
 mkdir -p ~/.claude/skills
 
 # Clone the skill
-git clone https://github.com/YOUR_USERNAME/document-architect.git ~/.claude/skills/document-architect
+git clone https://github.com/luigiserra-org/document-architect.git ~/.claude/skills/document-architect
 ```
 
 Restart Claude Desktop after installation.
@@ -142,6 +142,6 @@ MIT License. Use it, modify it, share it.
 
 ## Credits
 
-Developed by Luigi Serra as part of the [AI Advanced Training Course](https://www.linkedin.com/in/YOUR_PROFILE/) for business professionals.
+Developed by Luigi Serra as part of the [AI Advanced Training Course](https://www.linkedin.com/in/luigiserra/) for business professionals.
 
 Built on the [Agent Skills open standard](https://agentskills.io) by Anthropic.
